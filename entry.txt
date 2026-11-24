@@ -1,0 +1,1 @@
+Production went down after my one-line fix, my two-line rollback, and my three-line hotfix, which is how a typo became a postmortem.
